@@ -3,4 +3,8 @@
   <groupId>com.jtp</groupId>
   <artifactId>demo_test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <properties>
+  <maven.complier.source>17</maven.complier.source>
+  <maven.complier.target>17</maven.complier.target>
+  </properties>
 </project>
